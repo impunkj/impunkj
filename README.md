@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on VUE, Laravel , PHP , NODE, Magento, Wordpress
 - 🌱 I’m currently learning Vue,  React
 - 👯 I’m looking to collaborate on VUE js project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: 
    Linkedin => https://www.linkedin.com/in/pankaj-jha-26a63596/
    Twitter => https://twitter.com/Pankajjha0191
